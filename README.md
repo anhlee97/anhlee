@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [www.linkedin.com/in/anh-lee-199x](www.linkedin.com/in/anh-lee-199x)
 
 - ⚡ Fun fact **Writing code is very simple, but writing simple code is the hardest thing there is.**
-
+![Anhlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhlee97&hide=contribs,prs)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anh-lee-199x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anh-lee-199x" height="30" width="40" /></a>
